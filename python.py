@@ -11,3 +11,8 @@ print(variable[2:6})
 # I am happy that I have learned a new thing
 from linecache import error 
 print(f"This is what I was lookig for since this morning {variable}")
+
+# List
+ Helloworld=[1,2,3,45,4,54,34,45]
+print(Helloworld)
+
