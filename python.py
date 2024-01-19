@@ -22,3 +22,8 @@ print(set.append(12,13,34))
 print(set.add())
 
 Hello all, I love this activities
+
+# Working with the new branch
+print("This is data science for analytics")
+print("I will keep learning this for the rest of my life")
+Print(" I love learnign how to code, otherwise, It woulb the waste of time")
