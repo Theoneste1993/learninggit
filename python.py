@@ -16,3 +16,7 @@ print(f"This is what I was lookig for since this morning {variable}")
  Helloworld=[1,2,3,45,4,54,34,45]
 print(Helloworld)
 
+# set 
+set={1,2,3,4,5,6,7,8}
+print(set.append(12,13,34))
+print(set.add())
